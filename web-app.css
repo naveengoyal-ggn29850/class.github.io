@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+}
+h1.heading{
+    font-size: 50px;
+    text-align:left;
+    font-family: Ink Free;
+}
+sup{
+    font-size: 12px;
+    color: whitesmoke;
+}
+.button{
+    margin-right: 30px;
+    width: 80px;
+    height: 40px;
+    float: right;
+    font-size:20;
+    font-weight: bold;
+    color: white;
+    background-color: #0000FF;
+    border: none;
+}
+div.menu{
+    margin-top: 0px;
+    border: 0px solid white;
+}
+div.iframe{
+    margin-top: px;
+    margin: auto;
+    border: 0px solid white;
+    height: 480px;
+    width: 1000px;
+}
+.unorder-list{
+    color: #B3B6B7;
+    list-style-type: none;
+    display: inline-block;
+    background-color: transparent;
+    margin-left: 380px;
+    padding: 0px;
+}
+li{
+    font-size: 26;
+    float: left;
+    margin-right: 45px;
+    padding: 10px;
+}
+#diff-list{
+    font-size: 26;
+    color: #FDFEFE;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #00FF00;
+    font-size: 26;
+}
+li a:hover{
+    background-color: transparent;
+    text-decoration: none;
+    color: #FDFEFE;
+    font-size: 26;
+}
+.dropdown{
+    display: inline-block;
+    position: relative;
+}
+.dropdown-conatin{
+    display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px;
+  z-index: 1;
+}
+iframe{
+    width: 1015px;
+    height: 500px;
+    border: 0px solid red;
+    margin-left: 0px;
+}
+.footer-div{
+    border: 0px solid white;
+    width: 1300px;
+    height: 200px;
+    margin: auto;
+}
+.td0{
+    width:90px;
+    height:90px;
+    background-image: url('https://juanggl.files.wordpress.com/2015/01/explore-wallpaper.jpeg');
+    background-size: 90% 90%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #0000FF;
+    font-size: 22px;
+    font-weight: bold;
+}
+.td1{
+    width: 90px;
+    height: 90px;
+    background-image: url('https://akm-img-a-in.tosshub.com/sites/rd/resources/201907/dpps_88398400_1562560812_684x384.jpeg');
+    background-size: 90% 90%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #0000FF; 
+    font-size: 22px;
+    font-weight: bold;
+} 
+.td2{
+    width: 90px;
+    height: 90px;
+    background-image: url('https://i.pinimg.com/originals/cb/16/bb/cb16bb284a2a80c75041c80ba63e62d3.jpg');
+    background-size: 90% 90%;
+    text-align: center;
+    background-repeat: no-repeat;
+    color: #0000FF;
+    font-size: 22px;
+    font-weight: bold;
+}
+.td3{
+    width: 90px;
+    height: 90px;
+    margin-left: 20px;
+    background-image: url('https://impakter.com/wp-content/uploads/2018/09/lifestyle.jpg');
+    background-size: 90% 90%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #0000FF;
+    font-size: 22px;
+    font-weight: bold;
+}

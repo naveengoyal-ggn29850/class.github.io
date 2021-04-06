@@ -1,0 +1,33 @@
+div{
+    border: 2px solid black;
+    width: 1000px;
+    height: 450px;
+    margin-left: 0px;
+    background-image:url('https://i.pinimg.com/originals/d5/b4/e4/d5b4e465b52f5dd8d5eb87727a028331.jpg');
+    background-repeat: no-repeat;
+    background-size: 98% 101%;
+    background-position: fixed;
+    }
+.left-input{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 45px;
+    color: white;
+    background-color: transparent;
+    text-align: left;
+    margin-top: 180px;
+    }
+.right-input{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 45px;
+    color: white;
+    background-color: transparent;
+    text-align: right;
+    margin-left: 878px;
+    margin-top: 180px;
+    }
+ input:hover{
+    background-color: #D0D3D4;
+    color:#17202A;
+}
